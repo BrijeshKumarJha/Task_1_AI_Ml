@@ -51,8 +51,4 @@ Evaluated the model using Accuracy Score and Confusion Matrix. The confusion mat
 
 ![Model's Accuracy](Screenshots/Model's%20Accuracy.png)
 
-## 💻 How to Run the Project
-1. Ensure you have Python installed on your system.
-2. Install the required libraries via your terminal or command prompt:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
+
